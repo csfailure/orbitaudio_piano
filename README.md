@@ -1,4 +1,4 @@
-# orbitaudio_piano
+# Piano App Flutter
 
 A small Piano Project using Flutter and Dart
 

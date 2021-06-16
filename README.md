@@ -2,6 +2,8 @@
 
 A small Piano Project using Flutter and Dart
 
+![Alt Text](https://github.com/csfailure/orbitaudio_piano/blob/main/ezgif.com-gif-maker.gif)
+
 run your app with unsound null safety, you can use the following command:
 
 ```

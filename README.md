@@ -1,8 +1,22 @@
 # orbitaudio_piano
 
-A new Flutter project.
+A small Piano Project using Flutter and Dart
+
+run your app with unsound null safety, you can use the following command:
+
+flutter run --no-sound-null-safety
+
+or
+
+In Android Studio:
+
+Run --> Edit Configurations --> Add Additional Run args --> --no-sound-null-safety
+
+
 
 ## Getting Started
+
+
 
 This project is a starting point for a Flutter application.
 
